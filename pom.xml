@@ -14,7 +14,7 @@
         <thymeleaf.version>3.0.9.RELEASE</thymeleaf.version>
         <spring.version>5.0.4.RELEASE</spring.version>
         <spring-webflow.version>2.5.0.RELEASE</spring-webflow.version>
-        <spring.security-version>4.2.5.RELEASE</spring.security-version>
+        <spring.security-version>5.5.7</spring.security-version>
         <hibernate.version>5.3.5.Final</hibernate.version>
         <org.aspectj-version>1.7.4</org.aspectj-version>
         <slf4j-version>1.7.5</slf4j-version>
